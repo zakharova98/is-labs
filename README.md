@@ -2,6 +2,8 @@
 
 Repo for code review and tracking of implemented tasks.
 
+List of tasks can be found [here](tasks.md)
+
 ## Directories structure
 
 Please create a directory for your work based on your github username
